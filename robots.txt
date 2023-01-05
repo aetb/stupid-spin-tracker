@@ -1,0 +1,1 @@
+Sitemap: https://aetb.github.io/stupid-spin-tracker/sitemap.xml

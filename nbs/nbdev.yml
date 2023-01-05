@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "stupid-spin-tracker"
+  site-url: "https://aetb.github.io/stupid-spin-tracker"
+  description: "A simple spin tracker for LANL nEDM."
+  repo-branch: main
+  repo-url: "https://github.com/aetb/stupid-spin-tracker"
